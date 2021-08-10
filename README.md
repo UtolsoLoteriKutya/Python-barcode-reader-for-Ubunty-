@@ -1,4 +1,4 @@
-# Python-barcode-reader-for-Ubuntu Banana Pi,PC-
+# Python barcode reader for Ubuntu.Banana Pi,PC
 A simple barcode reader module for python on Ubuntu. It's made to call it from your program (instantiation needed to your main app), but it runs individually too for trying out the barcode reader.
 
 Tested on Banana pi m3 and PC. 
