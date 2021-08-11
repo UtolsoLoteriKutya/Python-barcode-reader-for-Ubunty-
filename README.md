@@ -3,4 +3,6 @@ A simple barcode reader module for python on Ubuntu. It's made to call it from y
 
 Tested on Banana pi m3 and PC. 
 
-Hopefully it works with any kind of USB 1D and 2D readers. Feel free to use it, i hope it helps!:) I am interested in your feedbacks, so please drop a comment!
+Hopefully it works with most of USB 1D and 2D readers. (tested with 5-7 different ones) Feel free to use it, i hope it helps!:) I am interested in your feedbacks, so please drop a comment!
+
+Update: I've found one 2D barcode scanner of which doesn't work with this driver: Symbol DS2208. For some reason, it builds up a different file/folder structure in the os, what is not compatible with my method. Certainly there is a way to handle it in this code, but it needs some extension.
